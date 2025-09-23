@@ -1,6 +1,6 @@
 <html>
 <header>
-  <title> Photography by Miles Cruz </title>
+  Photography by Miles Cruz
 </header>
   <body>
     <img src="img_8499.jpg" alt="building in LA" width="1080" height="1920"
